@@ -1,0 +1,16 @@
+{
+	"newestVersion":"1.0.1",
+	"versionLog":[
+		{
+			"version":"1.0.1",
+			"updateMessage":"Bilder für Nüsslisalat und Neuseeländerspinat hinzugefügt, Petersilie angepasst",
+			"newOrAlteredPlants":[2,4,41]
+		},
+		{
+			"version":"1.0.0",
+			"updateMessage":"Erste Version",
+			"newOrAlteredPlants":[]
+		}
+	]
+}
+	
